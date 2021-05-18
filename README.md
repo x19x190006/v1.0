@@ -1,39 +1,14 @@
-+   # 清单系统软件
-## 本软件适应于批量开票，开票品类再多都可以批量导入到财务开票软件中!
- ### 使用方法：
+* **4张服务单** 见附件 
+![中联湘谯](https://0.553xyz.xyz/api/v3/file/source/710/04.02.1.jpg?sign=pzmWmKmaZ_EDa2YaJzhp74tDIl_ohTnvv98PijaSWyk%3D%3A0)
 
->> + 1. **点击此处**：[下载](https://0.553xyz.xyz/api/v3/file/source/640/%E6%99%BA%E8%83%BD%E5%BC%80%E7%A5%A8%E4%B8%8E%E6%B8%85%E5%8D%95%E7%B3%BB%E7%BB%9FV1.0.exe?sign=IgDMW4T5jIeTBaakI9jXkf7bTRAuFOSsB44N25lfZeI%3D%3A0)     
+![盛安堂](https://0.553xyz.xyz/api/v3/file/source/711/04.02.jpg?sign=2Kwx9dkCYMbyz_X6v_86Y5C0CuN6E9oyE3IU4fN_yXg%3D%3A0)
 
->> + 2. **安装：点击下一步直至安装成功**
-![](https://0.553xyz.xyz/api/v3/file/source/686/1.png?sign=JGcTQ8OVe3qDgAHPKvmH0-UyVTCSXm45WCqDD-0Gm18%3D%3A0)
- 
->> + 3. **双击桌面图标：智能开票与清单系统**
-![](https://0.553xyz.xyz/api/v3/file/source/682/3.png?sign=bohnkHmyS1jpMIImPgsDR9lXKoO1cHnNFz1a9stPV_w%3D%3A0)
+![润芙蓉](https://0.553xyz.xyz/api/v3/file/source/712/04.2.1.jpg?sign=CAul2UmDI2Cnp598dOzhTAFXbTmNnkkWsWh3F9AwKGo%3D%3A0)
 
->> + 4. **用户名**：admin， **密码**：1
-![](https://0.553xyz.xyz/api/v3/file/source/683/4.png?sign=oCzvQseRKRgxEQpoJdXBm8yVm3RuWSHLke78F1VkCY8%3D%3A0)
+![顺和堂](https://0.553xyz.xyz/api/v3/file/source/1339/04.27.jpeg?sign=uB--3P-tEuBIofIpJ0O-A7B8Okg35pnvczsnGZWs_Wc%3D%3A0)
 
->> + 5. **下载excel模板**:名字随意
-![](https://0.553xyz.xyz/api/v3/file/source/684/5.png?sign=dk-UM8GpRDcfZgnBwJJ7fCgwDmYjTwq5wS8pgz2BpXM%3D%3A0)
+* **送发票签收单**  财富18300.信和发票签收单 18300  4.26绿莹制药 发票签收5000
 
+* **参与签合同**    财富专利18300  信合专利18300  绿营重点研发5000  金匠专利 10120 振兴永发8560
 
->>![](https://0.553xyz.xyz/api/v3/file/source/685/6.png?sign=AwJicg0WDfTwah4NC9IL1ojo00yH7fB9uo2yFyp-qko%3D%3A0)
-
->> + 6. **导入excel模板**
-![](https://0.553xyz.xyz/api/v3/file/source/677/7.png?sign=APRFHVOHDjtTtJ3bIAZt3mkmJ3U7Yohc12EJ0Hh52Uc%3D%3A0)
-
->>![](https://0.553xyz.xyz/api/v3/file/source/678/8.png?sign=CEoTcwhgwzNUpCMSZbBmQTF58xjGFCCU5o9RaBFHp0Y%3D%3A0)
-
-
->> + 7. **导出为xml格式文件**
-![](https://0.553xyz.xyz/api/v3/file/source/679/9.png?sign=kx2l-IOM2mM4Ei-zqF3y_-WqmFTmpKjhwdj3CCEMnbs%3D%3A0)
-
->> + 8. **将此xml格式文件导入到开票软件**
-![](https://0.553xyz.xyz/api/v3/file/source/681/11.png?sign=VdJyyrMg0ianShazEWbOBx6f0MSfV5UxAYdnDLuEjGc%3D%3A0)
-
->>  # ......END......
-
-# *问询请加* : 
-<img src="https://0.553xyz.xyz/api/v3/file/source/688/%E4%BA%8C%E7%BB%B4%E7%A0%811.jpg?sign=ovxYh5gBuQHxcpPgrcJuPniy0oGgajKaamGUNKxmCHI%3D%3A0" width="30%">  <img src="https://0.553xyz.xyz/api/v3/file/source/689/%E4%BA%8C%E7%BB%B4%E7%A0%812.jpg?sign=f0N6BjOJ1t1YMXWAexyRT_xuwjd9oFQrYZI0SflZ7pI%3D%3A0" width="28%">
-# 声明：本软件为软件工程师"曹sir"开发，合作请加微信号 *cml071025*
-
+* **申报书** 绿莹 重点研发申报书  华馨 市企业技术中心申报书
